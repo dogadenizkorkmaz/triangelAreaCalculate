@@ -14,7 +14,7 @@ public class TriangelAreaCalculate {
         System.out.print("Length of Third: ");
         c= inp.nextInt();
 
-        //after entering the values of two sides, the length of side c is found using the Pythagorean expression
+        //After entering the values of the three sides, the area is found using the Triangle area formula.
 
         double p=a+b+c;
         double u=(p/2);
